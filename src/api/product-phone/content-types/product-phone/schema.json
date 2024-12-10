@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "product_phones",
+  "info": {
+    "singularName": "product-phone",
+    "pluralName": "product-phones",
+    "displayName": "product_phone"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name_Iphone": {
+      "type": "string"
+    },
+    "Prinde": {
+      "type": "string"
+    }
+  }
+}

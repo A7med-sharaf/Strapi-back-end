@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "post_datas",
+  "info": {
+    "singularName": "post-data",
+    "pluralName": "post-datas",
+    "displayName": "Post_Datas",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "User_name": {
+      "type": "text",
+      "required": false,
+      "unique": false
+    },
+    "Phone_number": {
+      "type": "string"
+    }
+  }
+}
